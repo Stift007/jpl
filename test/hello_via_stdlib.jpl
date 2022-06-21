@@ -1,0 +1,12 @@
+using stdlib;
+
+! First Variant: printf;
+call printf("Hello World");
+
+! Second Variant: puts;
+
+call puts("Hello World");
+
+call scanf();
+
+

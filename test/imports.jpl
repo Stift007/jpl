@@ -1,0 +1,6 @@
+using test;
+using test_import;
+
+print *, Hello;
+call say_hello();
+print *, Name;

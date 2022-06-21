@@ -1,0 +1,6 @@
+using stdlib;
+
+
+call fopen(test, w);
+
+call fwrite(0, Hello World);

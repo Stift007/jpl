@@ -1,0 +1,19 @@
+using mat;
+using stdlib;
+
+procedure hello;
+print *, "Hello World";
+yield;
+
+var :: two = add(1,1);
+var :: null = sub(1,1);
+var :: one = mul(1,1);
+var :: second_one = div(1,1);
+var :: r2 = sqrt(2);
+print *, two;
+print *, null;
+print *, one;
+print *, second_one;
+objfound hello;
+call hello();
+print *, pi;

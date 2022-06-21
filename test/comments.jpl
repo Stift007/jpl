@@ -1,0 +1,12 @@
+! This is a comment;
+
+int :: SomeInt = 21;
+
+! The Line above will be executed;
+! int :: TheTruth = 42;
+
+
+print *, SomeInt;
+print *, TheTruth;
+! The Line above will produce an error;
+! Comments DO have to end with a semicolon though!;

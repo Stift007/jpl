@@ -1,0 +1,8 @@
+var :: thing = "Foo";
+print *, thing;
+
+int :: MyInt = 69420;
+print *, MyInt;
+
+tprint *, thing;
+tprint *, MyInt

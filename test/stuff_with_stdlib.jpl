@@ -1,0 +1,9 @@
+using stdlib;
+
+call system("python3","glint.py","hello_world.gnx");
+
+puts("Hello World");
+
+chr :: myCharacter = "Hello World";
+
+print *, myCharacter;
