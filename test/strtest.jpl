@@ -1,5 +1,5 @@
 using string;
 
 var :: name = strscn("Enter your Name > ");
-print *, "Your name is:";
-print *, name;
+!print *, "Your name is:";
+!print *, name;
