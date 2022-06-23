@@ -14,7 +14,7 @@ def arrayadd(a, *items):
   a.extend(items)
   
 def arraypop(a, idx):
-if len(a)<idx:
+  if len(a)<idx:
     return None
   return a.pop(idx)
   
