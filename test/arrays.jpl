@@ -1,0 +1,5 @@
+using array;
+
+var :: arr = array();
+call arrayadd(arr, "Hello", 4, "Foo");
+print *, arr;
