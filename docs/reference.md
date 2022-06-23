@@ -37,3 +37,10 @@ StdMods is located in \<jpl-compilaion-path\>/StdMods
 * (int) strcmp(a,b)           : Compare 2 Strings  
 * (int) strlen(a)             : Returns the length of a String  
 * (chr) strscn()              : Ask for a String from STDIn
+
+### stdmods/array.py
+* (array) array(\*args)       : Return an Array containing \*args (or none)  
+* (Procedure) arrayadd(a, \*x) : Extend the array A with \*x  
+* (any) arraypop(a, idx)      : Pop idx from a  
+
+### 
